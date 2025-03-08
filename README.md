@@ -11,7 +11,7 @@
 Update with Certs
   
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://www.linkedin.com/in/anthony-hemann-1690622ab/
+[linkedin]:www.linkedin.com/in/anthony-hemann
 
 
 Here are some ideas to get you started:
