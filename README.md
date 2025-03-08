@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...My favorite details about data cleaning
 - 📫 How to reach me: ...Email:Ahemann93@gmail.com
 - ⚡ Fun fact: ...My last name is spelled just like He-Man from Masters Of The Universe but, with an extra N!
--->
