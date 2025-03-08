@@ -1,7 +1,7 @@
 <h1>Hi, I'm Anthony! 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-1.
+- [Growth of Lettuce](enter link here)
 
 
 <h2> ⌨️Personal Favorites⌨️ </h2>
